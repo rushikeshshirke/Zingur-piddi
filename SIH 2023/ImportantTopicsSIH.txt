@@ -1,0 +1,35 @@
+DataBases : 
+	mongodb - NOSQL(clients, collections, etc)
+	sql - SQL
+Programming Language : 
+	Python
+	PHP
+	JavaScript(Plain Vanilla)
+	HTML
+	CSS
+	Bootstrap
+	Tailwind CSS
+	Node.js
+Algorithms : 
+	Model
+	Model Training
+	Dataset
+	Raw Data
+	ML(Supervised & Unsupervised)
+	Clustering
+	KNN
+	Logic Building
+
+Documentation : 
+	Question Set
+	Case study
+	Book Refered
+	online tool analysis
+	
+	
+	
+
+
+
+
+
